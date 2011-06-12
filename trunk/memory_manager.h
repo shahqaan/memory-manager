@@ -5,6 +5,7 @@
 
 
 /*
+CHANGED!
   This file provides user with an API for Pool initialization. It initializes memory pool 
   according to the size provided to the api. Best free space implements the best fit algorithm
   to find block with optimum size. Allocate_memory, allocates memory to different modules with
