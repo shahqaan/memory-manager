@@ -1,0 +1,1 @@
+Memory Manager provides API for initializing a pool of memory and then allocating and deallocating memory from within that pool while the application is running and manages memory blocks. It helps reduce the overhead of continues system calls for allocations and deallocations.
