@@ -17,9 +17,9 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-#include "mm_variables.c"
-#include "mm_functions.c"
-#include "mm_structures.c"
+#include "src/mm_variables.c"
+#include "src/mm_functions.c"
+#include "src/mm_structures.c"
 
 
 
