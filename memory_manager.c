@@ -1,11 +1,5 @@
  
-/*--------------------------------------------------------------------*/
-/*--- API:                              api.h ---*/
-/*--------------------------------------------------------------------*/
-
-
 /*
-CHANGED!
   This file provides user with an API for Pool initialization. It initializes memory pool 
   according to the size provided to the api. Best free space implements the best fit algorithm
   to find block with optimum size. Allocate_memory, allocates memory to different modules with
@@ -23,9 +17,9 @@ CHANGED!
 #include <stdlib.h>
 #include <stdio.h>
 #include <time.h>
-#include "mm_variables.h"
-#include "mm_functions.h"
-#include "mm_structures.h"
+#include "mm_variables.c"
+#include "mm_functions.c"
+#include "mm_structures.c"
 
 
 
